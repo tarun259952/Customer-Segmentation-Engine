@@ -159,7 +159,7 @@ This project demonstrates a complete, statistically grounded customer analytics 
 The practical payoff is a tiered customer base (Platinum/Gold/Silver/Bronze) ready to plug into targeted marketing: retention and loyalty perks for Platinum/Champions, frequency-driving nudges for Core Regulars, and win-back campaigns tailored specifically to the high-value-but-inactive "Can't Lose Them" group. This tiering directly supports the project's stated goal of improving marketing ROI through personalization, rather than one-size-fits-all campaigns.
 
 
-### 🤝 Let's Connect!
+## 🤝 Let's Connect!
 
 Whether you want to discuss the SQL scripts in this repo, talk about remote work trends, or just say hi—my inbox is open!
 
