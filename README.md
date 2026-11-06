@@ -159,11 +159,21 @@ This project demonstrates a complete, statistically grounded customer analytics 
 The practical payoff is a tiered customer base (Platinum/Gold/Silver/Bronze) ready to plug into targeted marketing: retention and loyalty perks for Platinum/Champions, frequency-driving nudges for Core Regulars, and win-back campaigns tailored specifically to the high-value-but-inactive "Can't Lose Them" group. This tiering directly supports the project's stated goal of improving marketing ROI through personalization, rather than one-size-fits-all campaigns.
 
 
-## 🤝 Let's Connect!
+## Limitations & Next Steps
 
-Whether you want to discuss the SQL scripts in this repo, talk about remote work trends, or just say hi—my inbox is open!
+- The dataset is synthetic, so segment sizes and CLV figures demonstrate the method rather than a real business.
+- CLV forecasts were not backtested. A calibration/holdout split of the BG/NBD model would measure how well the 180-day forecasts hold up.
+- The tier-based campaign ideas are untested. A real deployment would A/B test targeted outreach against a control group.
 
-* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/tarun-panigrahi-523534325)
-* 🐙 **GitHub:** [Follow my latest projects](https://github.com/tarun259952)
-* 📧 **Gmail:** [Send me an email](mailto:tarunpanigrahi259@gmail.com)
+## Skills Demonstrated
+
+RFM analysis · K-Means clustering and PCA · BG/NBD and Gamma-Gamma CLV modelling · Plotly Dash · pandas · scikit-learn
+
+## Contact
+
+Questions about the methodology or the dashboard? I'm happy to talk it through.
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/tarun-panigrahi-523534325)
+- 🐙 [GitHub](https://github.com/tarun259952)
+- 📧 [Email](mailto:tarunpanigrahi259@gmail.com)
 
